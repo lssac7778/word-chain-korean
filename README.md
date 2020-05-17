@@ -1,7 +1,7 @@
 # 끝말잇기 헬퍼
 
 ```
-aaa
+python main.py
 ```
 
 사용법
