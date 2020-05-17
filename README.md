@@ -10,5 +10,5 @@
 
 숫자 키 "0" 을 누르면 프로그램이 종료됩니다.
 
-#Requirements
+# Requirements
 pyautogui, pynput
